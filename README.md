@@ -47,7 +47,7 @@ If you'd like to contribute to the project, feel free to fork the repository and
 
 ## Contact
 
-For any inquiries or questions, you can reach us at astech133163@gmail.com.
+For any inquiries or questions, you can reach me at astech133163@gmail.com.
 
 ---
 Made with ❤️ by [ASTECH12](https://github.com/ASTECH12) 
